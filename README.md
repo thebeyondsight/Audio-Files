@@ -3,7 +3,9 @@
 First step is to wget all files. 
 
 Once you have files on Pi, run: 
+
 chmod +x setup_audio.sh
+
 chmod +x setup_audio2.sh
 
 Then run: 
