@@ -15,4 +15,4 @@ After reboot, run:
 sudo ./setup_audio2.sh
 
 Finally, to test: 
-aplay -D hw:2,0 file_stereo.wav
+aplay -D hw:2,0 TestFile_stereo.wav
